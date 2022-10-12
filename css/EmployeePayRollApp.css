@@ -93,7 +93,7 @@ label{
     border-radius: 4px;
     resize: vertical;
 }
-/* .profile-radio-content{
+.profile-radio-content{
     display: flex;
     flex-direction: row;
 }
@@ -105,7 +105,7 @@ label{
     width : 40px;
     border-radius: 50%;
     margin-left: 8px;
-} */
+}
 .label-text{
     margin-right: 100px;
 }
